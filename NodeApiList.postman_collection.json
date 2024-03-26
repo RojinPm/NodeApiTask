@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "183de4fc-5ffc-4e0b-87d4-bb7922605f67",
+		"name": "NodeApiList",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18132758",
+		"_collection_link": "https://www.postman.com/universal-moon-142459/workspace/new-team-workspace/collection/18132758-183de4fc-5ffc-4e0b-87d4-bb7922605f67?action=share&source=collection_link&creator=18132758"
+	},
+	"item": [
+		{
+			"name": "register",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "products",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "addProduct",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "addtoCart",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "removeCart",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
